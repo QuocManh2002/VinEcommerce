@@ -1,0 +1,96 @@
+{
+  "project_info": {
+    "project_number": "292276574722",
+    "project_id": "flutter-login-shipper-app",
+    "storage_bucket": "flutter-login-shipper-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292276574722:android:234e72940ef6c56af0e51b",
+        "android_client_info": {
+          "package_name": "com.flutter.vin_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292276574722-2jmtvq5qh914ss1s02qgki8hq28a14b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.vin_ecommerce",
+            "certificate_hash": "4e92a191e02e482c7e0f637b2b0aed41fc282b37"
+          }
+        },
+        {
+          "client_id": "292276574722-sd8pl1tbat92986o5oeaspqprr63epr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkw4mJp58ZiCBGlx2XL8ikz1_DDI5xPqk"
+        },
+        {
+          "current_key": "AIzaSyDMLVNjjwrqzKqoo4KBvYp7KZTpAmaQcuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292276574722-sd8pl1tbat92986o5oeaspqprr63epr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292276574722-1a0gt24qa34rk2bso64p9vahsodhfqvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.vinEcommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292276574722:android:56f21ddb6c3d3c6ff0e51b",
+        "android_client_info": {
+          "package_name": "com.quocmanh.demomap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292276574722-sd8pl1tbat92986o5oeaspqprr63epr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkw4mJp58ZiCBGlx2XL8ikz1_DDI5xPqk"
+        },
+        {
+          "current_key": "AIzaSyDMLVNjjwrqzKqoo4KBvYp7KZTpAmaQcuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292276574722-sd8pl1tbat92986o5oeaspqprr63epr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292276574722-1a0gt24qa34rk2bso64p9vahsodhfqvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.vinEcommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
