@@ -1,7 +1,7 @@
 class AppAssets {
   //BASE
   static final String google_api_key =
-      'AIzaSyBfv6pUcHJmvKXvx6vDrz7b7gwsK6TsSgk';
+      '#';
   static final String imgPath = 'assets/images/';
   static final String gifPath = 'assets/gifs/';
   static final String baseURL = 'https://vinecommerce.bsite.net/api/';

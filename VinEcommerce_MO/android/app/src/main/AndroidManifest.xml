@@ -43,7 +43,7 @@
             android:name="flutterEmbedding"
             android:value="2" />
             <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value = "AIzaSyBfv6pUcHJmvKXvx6vDrz7b7gwsK6TsSgk"/>
+            android:value = "#"/>
         <service
     android:name="dev.fluttercommunity.plus.androidalarmmanager.AlarmService"
     android:permission="android.permission.BIND_JOB_SERVICE"
